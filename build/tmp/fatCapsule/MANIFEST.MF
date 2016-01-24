@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Application-Class: hu.laci200270.games.firstgame.Starter
+Premain-Class: Capsule
+Main-Class: Capsule
+
